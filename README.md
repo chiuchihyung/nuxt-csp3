@@ -1,6 +1,15 @@
 # nuxt-csp3
 
-> My cat&#39;s pajamas Nuxt.js project
+> 弱點掃描遇到 CSP 中度嚴重性 問題
+
+1.用了 nonce-value 後，就不需再加 strict-dynamic
+
+2. nuxt.config.js 新增
+# build: {
+#        extractCSS: true,
+# }
+
+
 
 ## Build Setup
 
@@ -20,3 +29,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+

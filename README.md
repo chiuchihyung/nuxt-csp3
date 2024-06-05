@@ -9,6 +9,7 @@ build: {
         extractCSS: true,
 }
 
+<img width="1551" alt="截圖 2024-06-05 下午1 36 41" src="https://github.com/chiuchihyung/nuxt-csp3/assets/285322/885b1dfc-a0cf-4f9d-9760-bc5caccd6d04">
 
 
 ## Build Setup

@@ -5,9 +5,9 @@
 1.用了 nonce-value 後，就不需再加 strict-dynamic
 
 2. nuxt.config.js 新增
-# build: {
-#        extractCSS: true,
-# }
+build: {
+        extractCSS: true,
+}
 
 
 
